@@ -2,7 +2,7 @@
  * dragon.h
  *
  *  Created on: Oct 22, 2018
- *      Author: william
+ *      Author: Lei
  */
 
 // Dragon Class
